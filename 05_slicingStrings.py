@@ -1,6 +1,5 @@
 # Slicing: Accessing parts of a string.
-
-# str[starting_index:ending_index] == ending index is not included.
+# str[starting_index:ending_index] :=> ending index is not included.
 
 str = "RAJ ARYAN"
 print(str[1:3])

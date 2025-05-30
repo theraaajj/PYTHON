@@ -41,9 +41,9 @@ print(dict2.get("name"))
 # print(student["name2"])  :  ERROR
 # print(dict2.get("name2"))  : no error  (None)
 
-
 # update(newDict) : inserts items to our dictionary
 newDict = {"City":"Delhi"}         # same key me new value daalne se overwrite hoga, kyuki same keys nhi hoskte, only unique
 dict2.update(newDict)
 print(dict2)
 
+print(len(dict2))
