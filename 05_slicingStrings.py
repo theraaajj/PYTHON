@@ -2,6 +2,7 @@
 # str[starting_index:ending_index] :=> ending index is not included.
 
 str = "RAJ ARYAN"
+print(str[::-1]) NAYRA JAR
 print(str[1:3])
 print(str[:4])   # equal to [0:4]
 print(str[0:])   # equal to [0:len(str)]
